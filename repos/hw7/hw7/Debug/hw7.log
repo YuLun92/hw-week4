@@ -1,0 +1,4 @@
+﻿  hw7.c
+c:\users\88698\source\repos\hw7\hw7\hw7.c(6): warning C4101: 'cube': 未參考的區域變數
+c:\users\88698\source\repos\hw7\hw7\hw7.c(6): warning C4101: 'square': 未參考的區域變數
+  hw7.vcxproj -> c:\Users\88698\source\repos\hw7\Debug\hw7.exe
